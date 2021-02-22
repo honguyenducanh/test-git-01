@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a380ab2-f293-4f06-aa84-3892d949b423" name="Default Changelist" comment="AppJava">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/laptrinh/git/Backhome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/laptrinh/git/Backhome.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1op1JmmUSKecdGS9Rin1F1VtraB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="com.laptrinh.git" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Backhome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laptrinh.git.Backhome" />
+      <module name="test-git-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laptrinh.git.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Backhome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a380ab2-f293-4f06-aa84-3892d949b423" name="Default Changelist" comment="" />
+      <created>1613968648802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613968648802</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1613969233121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613969233121</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init project">
+      <created>1613969767134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613969767134</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add App class">
+      <created>1613973716320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613973716320</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hello">
+      <created>1613974268841</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613974268841</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Java">
+      <created>1613974648996</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613974648996</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Java">
+      <created>1613974758772</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613974758772</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FileHTML">
+      <created>1613974882267</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613974882267</updated>
+    </task>
+    <task id="LOCAL-00008" summary="FileHTML">
+      <created>1613974911440</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613974911440</updated>
+    </task>
+    <task id="LOCAL-00009" summary="FileHTML">
+      <created>1613974922503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613974922503</updated>
+    </task>
+    <task id="LOCAL-00010" summary="FileHTML">
+      <created>1613975017554</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613975017554</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FileHTML">
+      <created>1613975097205</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613975097205</updated>
+    </task>
+    <task id="LOCAL-00012" summary="FileHTML">
+      <created>1613975224521</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1613975224521</updated>
+    </task>
+    <task id="LOCAL-00013" summary="FileHTML">
+      <created>1613975229747</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1613975229747</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Backhome">
+      <created>1613975394715</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1613975394715</updated>
+    </task>
+    <task id="LOCAL-00015" summary="AppJava">
+      <created>1613975654915</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1613975654915</updated>
+    </task>
+    <task id="LOCAL-00016" summary="AppJava">
+      <created>1613975686674</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1613975686674</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project" />
+    <MESSAGE value="add App class" />
+    <MESSAGE value="Hello" />
+    <MESSAGE value="Java" />
+    <MESSAGE value="FileHMTL" />
+    <MESSAGE value="FileHTML" />
+    <MESSAGE value="Backhome" />
+    <MESSAGE value="AppJava" />
+    <option name="LAST_COMMIT_MESSAGE" value="AppJava" />
+  </component>
+</project>
